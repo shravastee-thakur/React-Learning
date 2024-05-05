@@ -1,0 +1,12 @@
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+  gap: 40px;
+  justify-content: center;
+  background: rgba(152, 151, 151, 0.305);
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 30px;
+}

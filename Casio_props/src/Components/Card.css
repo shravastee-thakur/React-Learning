@@ -1,0 +1,23 @@
+.card {
+    width: 300px;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+    text-align: center;
+    /* margin-top: 30px; */
+    background-color: beige;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card img {
+    height: 300px;
+    width: auto;
+}
+
+.detail {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
